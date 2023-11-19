@@ -1,6 +1,6 @@
 # Programming Bootcamp
 
-Exercises about recursion and DP. Some solutions will be provided.
+Exercises about recursion and DP. Some templates are provided.
 
 ## Proposed exercises
 
